@@ -36,7 +36,7 @@ The Excel dashboard is included in this repository.
 
 ## 📸 Dashboard Preview
 
-![100 Sales Analysis Dashboard](100%20Sales%20Analysis%20Dashboard.png)
+![100 Sales Analysis Dashboard](1000%20Sales%20Analysis%20Dashboard.png)
 
 ---
 
